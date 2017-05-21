@@ -1,0 +1,21 @@
+html, body{
+  margin: 0px;
+}
+body {
+    background: url('https://i.imgur.com/mONNkJg.jpg') no-repeat fixed center center;
+    background-size: cover;
+    font-family: Montserrat;
+}
+
+.content{
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+
+}
+table, td{
+  border: 1px solid white;
+  margin: 0px auto;
+}
