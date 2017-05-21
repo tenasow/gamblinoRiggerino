@@ -77,17 +77,5 @@
   }
 
   </script>
-
-    <!--<link rel="stylesheet" type="text/css" href="views/login.css">
-
-    <div class="login-block">
-      <form method="post" action="index.php" name="loginform" id="login-form">
-          <input id="username" class="login_input" type="text" placeholder="name" name="user_name" required>
-          <input id="password" class="login_input" type="password" placeholder="password" name="user_password" autocomplete="off" required>
-          <button name="login">login</button>
-        <a href="register.php">Register new account</a>
-      </form>
-    </div>
-  -->
   </body>
 </html>
